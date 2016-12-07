@@ -12,7 +12,8 @@ class Imagen():
     
 class Sonido():
     def reproducir(Self):
-        pass
+	print("Reproduciendo")
+        
 
     def volumen(Self):
         pass
