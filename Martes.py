@@ -9,4 +9,13 @@ class Imagen():
     def binarizacion(self):
         pass
     
+class Sonido():
+    def reproducir(Self):
+        pass
+
+    def volumen(Self):
+        pass
+
+    def furier(self):
+        pass
     
